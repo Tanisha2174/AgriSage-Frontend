@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Mic, Camera, MessageSquare, Send, Brain } from 'lucide-react';
-const API_URL = "http://localhost:5000";
+const API_URL = "https://agrisage-backend-8ge4.onrender.com";
 
 export const DemoInterface: React.FC = () => {
   const [activeTab, setActiveTab] = useState<'text' | 'voice' | 'image'>('text');
