@@ -27,10 +27,6 @@ export const Footer: React.FC = () => {
                 <Mail size={16} />
                 <span>Tanisha Panesar</span>
               </div>
-              <div className="flex items-center space-x-2">
-                <Mail size={16} />
-                <span>Kartik Gupta</span>
-              </div>
             </div>
           </div>
           
