@@ -19,16 +19,7 @@ export const Footer: React.FC = () => {
               Built for the Agriculture AI Challenge 2025
             </div>
           </div>
-          
-          <div>
-            <h4 className="text-lg font-semibold mb-4">Team Innov8ers</h4>
-            <div className="space-y-2 text-gray-300">
-              <div className="flex items-center space-x-2">
-                <Mail size={16} />
-                <span>Tanisha Panesar</span>
-              </div>
-            </div>
-          </div>
+        
           
           <div>
             <h4 className="text-lg font-semibold mb-4">Technology Stack</h4>
